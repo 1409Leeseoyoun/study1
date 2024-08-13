@@ -1,0 +1,10 @@
+diff a/test/test.html b/test/test.html	(rejected hunks)
+@@ -31,6 +31,7 @@
+     
+     <div>물</div>
+ 
++    <div>에어팟</div>
+ 
+ </body>
+ </html>
+\ No newline at end of file
