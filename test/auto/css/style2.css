@@ -17,7 +17,7 @@
 */
 **html input, *html input {margin:-1px 0px -1px 0px;}
 
-/* ÃÊ±âÈ­ */
+/* ï¿½Ê±ï¿½È­ */
 html {overflow-y:scroll}
 body {margin:0;padding:0;font-size:0.75em;font-family:'NanumGothic',dotum;background:url('../img/bg.jpg')}
 html, h1, h2, h3, h4, h5, h6, form, fieldset, img {margin:0;padding:0;border:0}
@@ -44,7 +44,7 @@ li {list-style:none;margin:0;padding:0}
 input, select, textarea {border:1px solid #c8c7cc}
 .border_no {border:0 !important}
 
-/* »ó´Ü ·¹ÀÌ¾Æ¿ô */
+/* ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¾Æ¿ï¿½ */
 #hd {position:relative; width:100%; z-index:10; height:144px;border-bottom:0px solid #d8d8d8;min-width:980px;background:url(../img/top_bg.jpg) repeat-x;}
 #hd:after {display:block;visibility:hidden;clear:both;content:""}
 
@@ -69,7 +69,7 @@ input, select, textarea {border:1px solid #c8c7cc}
 #hd_nav {position:relative;width:980px;margin:0 auto;padding:0;height:auto;color:#696968;height:35px;}
 
 
-/* ¸ÞÀÎ¸Þ´º */
+/* ï¿½ï¿½ï¿½Î¸Þ´ï¿½ */
 #gnb {position:relative;margin:-1px 0 0;border-top:0px dotted #dde4e9;border-bottom:0px solid #dde4e9;color:#1e0606;padding-top:3px;background:url('../img/top_menu_background.jpg') repeat-x;}
 #gnb h2 {position:absolute;font-size:0;line-height:0;overflow:hidden}
 #gnb_1dul {margin:0 auto !important;padding:0;width:980px;zoom:1}
@@ -99,7 +99,7 @@ input, select, textarea {border:1px solid #c8c7cc}
 .top_menu > ul > li a {line-height:28px ;font-size:12px;color:#6a5c4d}
 #top_menu_arrow {position:absolute;bottom:-1px;left:50%;margin-left:-68px; cursor:pointer; }
 
-/* Áß°£ ·¹ÀÌ¾Æ¿ô */
+/* ï¿½ß°ï¿½ ï¿½ï¿½ï¿½Ì¾Æ¿ï¿½ */
 #wrapper {z-index:5;margin:0 auto;min-width:980px;width:100%;zoom:1;height:auto;min-height:350px;overflow:hidden}
 #wrapper:after {display:block;visibility:hidden;clear:both;content:""}
 
@@ -201,7 +201,7 @@ input, select, textarea {border:1px solid #c8c7cc}
 .main_video .main_video_right span b {padding-right:4px;display:inline-block;width:73px;background:url('../img/main_video_hitbg.png') center top no-repeat;font-weight:normal;text-align:right}
 .main_video .main_video_right .main_video_right_bottom_text {display:inline-block;width:190px;text-align:right;color:#757575;font-weight:normal}
 
-/*¼­ºê ·¹ÀÌ¾Æ¿ô */
+/*ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¾Æ¿ï¿½ */
 .price_bold {font-weight:bold}
 .align_right {text-align:right}
 .align_center {text-align:center}
@@ -355,7 +355,7 @@ input, select, textarea {border:1px solid #c8c7cc}
 #org_bg {position:absolute;top:170px;left:80px; }
 
 
-/* ÇÏ´Ü ·¹ÀÌ¾Æ¿ô */
+/* ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½Ì¾Æ¿ï¿½ */
 #ft {clear:both;position:relative; width:100%;min-width:980px;margin:0 auto;background:#fff;height:159px;border-top:1px solid #eaeaea}
 
 
@@ -407,17 +407,17 @@ div.cfmOllehQuickMenuClose a.cfmOllehQuickMenuCloseButton {position:absolute;top
 #selectcate textarea {width:101px;padding:0px;margin:2px 0;height:30px;border:1px solid #d9d7d7;vertical-align:top;padding:2px}
 #selectcate input {border:1px solid #d9d7d7;width:101px;margin:2px 0;padding:2px}
 
-/* ÆäÀÌÂ¡ */
+/* ï¿½ï¿½ï¿½ï¿½Â¡ */
 .pg_wrap {clear:both;margin:0 0 20px;padding:30px 0 0;text-align:center;}
 .pg {}
 .pg_page, .pg_current {display:inline-block;padding:0 8px;height:25px;color:#000;letter-spacing:0;line-height:2.2em;vertical-align:middle}
 .pg a:focus, .pg a:hover {text-decoration:none;background:#ce0000;color:#fff}
 .pg_page {background:url(../img/arrow_btn_bg.jpg);text-decoration:none;border:1px solid #e0e0e0}
-.pg_start, .pg_prev {/* ÀÌÀü */}
-.pg_end, .pg_next {/* ´ÙÀ½ */}
+.pg_start, .pg_prev {/* ï¿½ï¿½ï¿½ï¿½ */}
+.pg_end, .pg_next {/* ï¿½ï¿½ï¿½ï¿½ */}
 .pg_current {display:inline-block;margin:0 0px 0 0;background:#ce0000;color:#fff;font-weight:normal;border:1px solid #e0e0e0}
 
-/* ¼­ºê»çÀÌµå¸Þ´º */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìµï¿½Þ´ï¿½ */
 #sub_side_wrap {position:relative;width:180px;height:auto;float:left;padding:0;border:1px solid #dddddd;margin-right:20px;box-sizing:border-box}
 #sub_side {position:relative;width:178px;height:auto;line-height:80px;display:inline-block;font-size:17px;font-weight:bold;text-align:left;background:#eeeeee;text-indent:15px}
 
@@ -625,7 +625,7 @@ ul#menu li ul li a:hover:after, .current a:after {font-size:5px;content:">"}
 .faq_an li a.on {color:red;}
 .faq_an li p {font-size:13px;color:#7d7d7d;padding:15px 30px 15px 48px;line-height:20px}
 
-/* sub4 °øÁö»çÇ× */
+/* sub4 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
 .sub4_list {}
 .sub4_list a {text-decoration:none}
 .sub4_list:after {display:block;visibility:hidden;clear:both;content:""}
@@ -648,7 +648,7 @@ ul#menu li ul li a:hover:after, .current a:after {font-size:5px;content:">"}
 .sub4_detail .notice_detail_content p {line-height:20px;font-size:13px;padding:20px 15px}
 .sub4_detail .notice_detail_content p img {width:688px;padding:10px 0}
 
-/* sub4 °øÁö»çÇ× ±âº»Å×ÀÌºí */
+/* sub4 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½âº»ï¿½ï¿½ï¿½Ìºï¿½ */
 .tbl_wrap table {width:100%;border-collapse:collapse;border-spacing:0;font-size:12px;color:#636363}
 .tbl_wrap caption {padding:10px 0;font-weight:bold;text-align:left}
 
@@ -656,7 +656,7 @@ ul#menu li ul li a:hover:after, .current a:after {font-size:5px;content:">"}
 .tbl_head01 caption {padding:0;font-size:0;line-height:0;overflow:hidden}
 .tbl_head01 thead th {padding:12px 0;border-top:1px solid #d1dee2;border-bottom:1px solid #d1dee2;background:#4c4c4c;color:#fff;font-size:0.95em;text-align:center;letter-spacing:-0.1em}
 .tbl_head01 thead a {color:#383838}
-.tbl_head01 thead th input {vertical-align:top} /* middle ·Î ÇÏ¸é °Ô½ÃÆÇ ÀÐ±â¿¡¼­ ¸ñ·Ï »ç¿ë½Ã Ã¼Å©¹Ú½º ¶óÀÎ ±úÁü */
+.tbl_head01 thead th input {vertical-align:top} /* middle ï¿½ï¿½ ï¿½Ï¸ï¿½ ï¿½Ô½ï¿½ï¿½ï¿½ ï¿½Ð±â¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã¼Å©ï¿½Ú½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ */
 .tbl_head01 tfoot th, .tbl_head01 tfoot td {padding:10px 0;border-top:1px solid #c1d1d5;border-bottom:1px solid #c1d1d5;background:#d7e0e2;text-align:center}
 .tbl_head01 tbody th {padding:8px 0;border-top:1px solid #eeeeee;border-bottom:1px solid #eeeeee}
 .tbl_head01 td {padding:8px 5px;border-top:1px solid #eeeeee;border-bottom:1px solid #eeeeee;line-height:1.9em;border-right:1px solid #eeeeee;word-break:break-all}
@@ -682,7 +682,7 @@ ul#menu li ul li a:hover:after, .current a:after {font-size:5px;content:">"}
 .bo_color1 td {background:#f7f7f7}
 .bo_color2 td {background:#f7f7f7}
 
-/* sub9 Â÷·®´Ü°¡Ç¥ »ó¼¼ */
+/* sub9 ï¿½ï¿½ï¿½ï¿½ï¿½Ü°ï¿½Ç¥ ï¿½ï¿½ */
 .sub9_list_detail {}
 .sub9_list_detail > img {padding:15px 28px}
 .sub9_list_detail:after {display:block;visibility:hidden;clear:both;content:""}
@@ -755,7 +755,7 @@ ul#menu li ul li a:hover:after, .current a:after {font-size:5px;content:">"}
 
 
 
-/* sub10 ¸ÂÃãÂ÷·®±¸¸Å ¹æ¹ý */
+/* sub10 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ */
 .sub10_wrap {padding:0px; margin:0px; line-height:100%;position:relative;width:726px;height:1023px;background:url(../img/sub10_bg.jpg) center top no-repeat;text-align:left;box-sizing:border-box;}
 .sub10_wrap > ul {margin:0;width:538px;height:823px;padding:0 94px 0 94px;}
 .sub10_wrap > ul > li {float:left;width:538px;margin:0;height:50px;padding:0;}
